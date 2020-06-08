@@ -25,7 +25,11 @@ class Dog
     end
     
     def save
+<<<<<<< HEAD
       @@all << self
+=======
+      @@all >> self
+>>>>>>> 3729f710c36392ecaa391c362e4a201ab7f299ea
     end
     
 end
